@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import { io } from "socket.io-client";
 
-const socket = io("https://your-render-server-url.onrender.com"); 
+const socket = io("https://server-o092.onrender.com"); 
 // Replace with your Render backend URL after deployment
 
 function App() {
